@@ -1,80 +1,44 @@
 [cv]
-name = "胡图图"
-email = "tutuhu@gmail.com"
-phone = "(+86) 820-820-8820"
-website = "https://www.wikiwand.com/zh/大耳朵图图"
-birthday = "2000.06.21"
+name = "刘晶"
+email = "845472623@qq.com"
+phone = "18945696860"
+
+birthday = "1997.10.30"
 # 路径
-avatar = ""
+avatar = "研究方向为数学课程与教学论，主要研究数学教育的国际比较、教材与习题研究，以及教育评价理论。"
 
 [[educations]]
-school = "翻斗幼儿园"
-major = "软件工程"
-degree = "幼儿园"
-date = "2006.9 - now"
-
+school = "石河子大学"
+major = "课程与教学论"
+degree = "硕士在读"
+date = "2023.09 - now"
 [[educations]]
-school = "翻斗学前班"
-major = "计算机科学与技术"
-degree = "学前班"
-date = "2003.9 - 2006.6"
+school = "哈尔滨师范大学"
+major = "数学与应用数学"
+degree = "学士"
+date = "2016.09 - 2020.06"
 
 [[projects]]
-name = "Kubernetes"
-url = "https://github.com/kubernetes/kubernetes"
-date = "2014.6 - now"
-desc = "Kubernetes是一个开源的，用于管理云平台中多个主机上的容器化的应用"
-points = ["负责Kubernetes的网络部分", "负责Kubernetes的不知道什么部分"]
+name = "一作文章《中丹初中数学习题的比较研究—以函数为例》已被《数学教育学报》录用"
+date = "2025.05"
 
 [[projects]]
-name = "Linux"
-url = "https://github.com/torvalds/linux"
-date = "2006.6 - 2022.6"
-desc = "Linux是一个开源的操作系统内核"
-points = [
-    "负责Linux的文件系统部分，包括ext4, btrfs, xfs, f2fs",
-    "负责Linux的网络部分，包括TCP/IP, UDP, SCTP, DCCP, IPv4, IPv6",
-]
+name = "二作文章《丹麦初中数学教科书跨学科主题学习项目的设置与启示》发表于《教学与管理》（导师一作）"
+date = "2025.09"
 
 [[projects]]
-name = "翻斗幼儿园每日打卡"
-url = ""
-date = "2019.12 - 2023.1"
-desc = ""
-points = ["可以进行翻斗幼儿园每日打卡", "在线用户超过20"]
+name = "一篇关于中丹教科书习题核心素养比较的文章已投《数学通报》，目前正在返修"
+date = "2025.11"
 
-[[internships]]
-company = "翻斗大街翻斗花园2号楼"
-jobtitle = "端茶倒水"
-date = "2022.4 - 2022.6"
-points = ["负责端茶倒水", "负责浇花"]
-
-[[internships]]
-company = "翻斗幼儿园"
-jobtitle = "扮演小学生"
-date = "2022.4 - 2022.6"
-points = ["和张小帅一起玩", "和张小帅一起吃饭", "和张小帅一起睡觉(误)"]
+[[projects]]
+name = "一篇关于数学习题难度模型的文章已投《课程·教材·教法》"
+date = "2025.10"
 
 [[awards]]
-name = "最佳编导奖（获奖）"
-date = "2006.11.8"
-
-[[awards]]
-name = "优秀长篇美术片奖（获奖）"
-date = "2006.11.8"
-
-[[awards]]
-name = "中国电视艺术最高政府奖 - 星光奖"
-date = "2010.1.24"
+name = "20205年度国家奖学金已公示"
+date = "2025.10"
 
 [[skills]]
-name = "编程语言"
-desc = "C/C++, Python, Java, JavaScript, HTML/CSS, PHP, SQL"
+name = "CET6 445分"
 
-[[skills]]
-name = "工具"
-desc = "Git, Vim, VS Code, Linux, Docker, MySQL, MongoDB, Redis"
 
-[[skills]]
-name = "语言"
-desc = "中文, 英语, 日语, 俄语, 法语, 德语, 西班牙语, 阿拉伯语, 葡萄牙语, 意大利语, 希腊语, 土耳其语"
